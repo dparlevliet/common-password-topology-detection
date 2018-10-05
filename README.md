@@ -14,12 +14,14 @@ Breakdown:
   - `p`: punctuation (this lib determins `p` to be anything not matching pervious criteria)
 
 Given this password:
-
+```
   Abcd 01 !
+```
 
 The resulting topology would be:
-
+```
   Ulllpddpp
+```
 
 
 ## leak-analysis/
