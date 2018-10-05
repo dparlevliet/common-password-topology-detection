@@ -1,0 +1,602 @@
+[
+  {
+    "count": 16852292, 
+    "regexp": "U[l]+[d]+p", 
+    "topology": "Ulllldddp", 
+    "largest": 25
+  }, 
+  {
+    "count": 4636467, 
+    "regexp": "U[l]+dp", 
+    "topology": "Ullllllldp", 
+    "largest": 37
+  }, 
+  {
+    "count": 843854, 
+    "regexp": "[d]+U[l]+p", 
+    "topology": "ddUlllllllp", 
+    "largest": 25
+  }, 
+  {
+    "count": 779019, 
+    "regexp": "U[l]+U[l]+[d]+p", 
+    "topology": "UllUlllddddp", 
+    "largest": 140
+  }, 
+  {
+    "count": 678760, 
+    "regexp": "[U]+[l]+[d]+p", 
+    "topology": "UUlllllllddp", 
+    "largest": 29
+  }, 
+  {
+    "count": 650814, 
+    "regexp": "U[l]+p[d]+p", 
+    "topology": "Ulllllpddp", 
+    "largest": 29
+  }, 
+  {
+    "count": 531895, 
+    "regexp": "Ul[d]+p", 
+    "topology": "Ulddddp", 
+    "largest": 31
+  }, 
+  {
+    "count": 516796, 
+    "regexp": "U[l]+d[l]+p", 
+    "topology": "Ulllldllp", 
+    "largest": 29
+  }, 
+  {
+    "count": 456041, 
+    "regexp": "U[l]+[d]+[p]+", 
+    "topology": "Ulllllllddpp", 
+    "largest": 30
+  }, 
+  {
+    "count": 374642, 
+    "regexp": "[l]+[U]+[d]+p", 
+    "topology": "lllllUUUUUdddddp", 
+    "largest": 30
+  }, 
+  {
+    "count": 366596, 
+    "regexp": "U[l]+[d]+[l]+p", 
+    "topology": "Ullllddlllllp", 
+    "largest": 28
+  }, 
+  {
+    "count": 271917, 
+    "regexp": "U[l]+U[d]+p", 
+    "topology": "UlllllUddddp", 
+    "largest": 24
+  }, 
+  {
+    "count": 257136, 
+    "regexp": "dU[l]+p", 
+    "topology": "dUlllllllllp", 
+    "largest": 30
+  }, 
+  {
+    "count": 243767, 
+    "regexp": "U[l]+U[l]+dp", 
+    "topology": "UlllUlllllldp", 
+    "largest": 25
+  }, 
+  {
+    "count": 223196, 
+    "regexp": "[d]+U[l]+[d]+p", 
+    "topology": "ddUlllllllllddp", 
+    "largest": 29
+  }, 
+  {
+    "count": 211649, 
+    "regexp": "[l]+[d]+[U]+p", 
+    "topology": "lllddUUUp", 
+    "largest": 30
+  }, 
+  {
+    "count": 203450, 
+    "regexp": "[l]+U[d]+p", 
+    "topology": "lllllUddddp", 
+    "largest": 27
+  }, 
+  {
+    "count": 193948, 
+    "regexp": "Ud[l]+p", 
+    "topology": "Udllllllllp", 
+    "largest": 26
+  }, 
+  {
+    "count": 180966, 
+    "regexp": "U[l]+pdp", 
+    "topology": "Ulllllllpdp", 
+    "largest": 30
+  }, 
+  {
+    "count": 180805, 
+    "regexp": "U[l]+d[p]+", 
+    "topology": "Ulllllldpp", 
+    "largest": 33
+  }, 
+  {
+    "count": 179986, 
+    "regexp": "[d]+Ulp", 
+    "topology": "ddddddUlp", 
+    "largest": 33
+  }, 
+  {
+    "count": 176679, 
+    "regexp": "[U]+[d]+[l]+p", 
+    "topology": "UUUUUdddlllllllp", 
+    "largest": 32
+  }, 
+  {
+    "count": 172131, 
+    "regexp": "U[l]+[d]+lp", 
+    "topology": "Ullddlp", 
+    "largest": 33
+  }, 
+  {
+    "count": 160703, 
+    "regexp": "U[l]+dlp", 
+    "topology": "Ullldlp", 
+    "largest": 27
+  }, 
+  {
+    "count": 155852, 
+    "regexp": "[l]+[d]+Up", 
+    "topology": "llllllddUp", 
+    "largest": 22
+  }, 
+  {
+    "count": 151556, 
+    "regexp": "[l]+U[l]+[d]+p", 
+    "topology": "llllUllddp", 
+    "largest": 37
+  }, 
+  {
+    "count": 132828, 
+    "regexp": "[U]+[l]+dp", 
+    "topology": "UUllllldp", 
+    "largest": 32
+  }, 
+  {
+    "count": 118079, 
+    "regexp": "l[d]+[l]+U[l]+p", 
+    "topology": "ldddllUlllp", 
+    "largest": 27
+  }, 
+  {
+    "count": 113537, 
+    "regexp": "U[d]+lp", 
+    "topology": "Uddddlp", 
+    "largest": 27
+  }, 
+  {
+    "count": 103874, 
+    "regexp": "Uld[l]+p", 
+    "topology": "Uldlllllp", 
+    "largest": 29
+  }, 
+  {
+    "count": 103815, 
+    "regexp": "U[l]+[d]+U[l]+p", 
+    "topology": "UllddddUllp", 
+    "largest": 30
+  }, 
+  {
+    "count": 102443, 
+    "regexp": "U[d]+[l]+p", 
+    "topology": "Uddllllllp", 
+    "largest": 25
+  }, 
+  {
+    "count": 94581, 
+    "regexp": "l[U]+[d]+p", 
+    "topology": "lUUUUUUUddddp", 
+    "largest": 23
+  }, 
+  {
+    "count": 92490, 
+    "regexp": "UlU[l]+[d]+p", 
+    "topology": "UlUlllddddp", 
+    "largest": 33
+  }, 
+  {
+    "count": 92431, 
+    "regexp": "U[l]+dU[l]+p", 
+    "topology": "UlldUllp", 
+    "largest": 26
+  }, 
+  {
+    "count": 92045, 
+    "regexp": "[l]+[U]+dp", 
+    "topology": "llllllllllUUdp", 
+    "largest": 26
+  }, 
+  {
+    "count": 91544, 
+    "regexp": "dlUld[l]+dlUp", 
+    "topology": "dlUldlldlUp", 
+    "largest": 12
+  }, 
+  {
+    "count": 85896, 
+    "regexp": "Ul[d]+[l]+p", 
+    "topology": "Ulddllllllp", 
+    "largest": 31
+  }, 
+  {
+    "count": 84777, 
+    "regexp": "[l]+Udp", 
+    "topology": "lllllllllUdp", 
+    "largest": 36
+  }, 
+  {
+    "count": 84332, 
+    "regexp": "UlUl[d]+p", 
+    "topology": "UlUlddddp", 
+    "largest": 29
+  }, 
+  {
+    "count": 81875, 
+    "regexp": "U[d]+[l]+[d]+p", 
+    "topology": "Uddlllddp", 
+    "largest": 108
+  }, 
+  {
+    "count": 79548, 
+    "regexp": "U[l]+[U]+[d]+p", 
+    "topology": "UllllllUUUdddp", 
+    "largest": 28
+  }, 
+  {
+    "count": 78338, 
+    "regexp": "[l]+U[l]+dp", 
+    "topology": "llllUlllldp", 
+    "largest": 36
+  }, 
+  {
+    "count": 76290, 
+    "regexp": "dU[l]+dp", 
+    "topology": "dUlllldp", 
+    "largest": 27
+  }, 
+  {
+    "count": 72469, 
+    "regexp": "[l]+dU[l]+p", 
+    "topology": "lllldUllp", 
+    "largest": 29
+  }, 
+  {
+    "count": 69966, 
+    "regexp": "[d]+[l]+Up", 
+    "topology": "ddddddllUp", 
+    "largest": 30
+  }, 
+  {
+    "count": 68864, 
+    "regexp": "[d]+[l]+[U]+p", 
+    "topology": "ddlllllUUp", 
+    "largest": 31
+  }, 
+  {
+    "count": 68600, 
+    "regexp": "[d]+[U]+[l]+p", 
+    "topology": "ddUUUUllllp", 
+    "largest": 30
+  }, 
+  {
+    "count": 67001, 
+    "regexp": "U[l]+Ul[d]+p", 
+    "topology": "UllUldddp", 
+    "largest": 32
+  }, 
+  {
+    "count": 64176, 
+    "regexp": "[l]+dUp", 
+    "topology": "llllldUp", 
+    "largest": 30
+  }, 
+  {
+    "count": 64059, 
+    "regexp": "U[l]+Udp", 
+    "topology": "UllllUdp", 
+    "largest": 23
+  }, 
+  {
+    "count": 63904, 
+    "regexp": "lU[l]+[d]+p", 
+    "topology": "lUllddddp", 
+    "largest": 28
+  }, 
+  {
+    "count": 63733, 
+    "regexp": "U[l]+d[l]+dp", 
+    "topology": "Ulllldlllllldp", 
+    "largest": 26
+  }, 
+  {
+    "count": 63301, 
+    "regexp": "[U]+d[l]+p", 
+    "topology": "UUUUdlllllp", 
+    "largest": 31
+  }, 
+  {
+    "count": 61346, 
+    "regexp": "Ud[l]+[d]+p", 
+    "topology": "Udlllddddp", 
+    "largest": 26
+  }, 
+  {
+    "count": 58522, 
+    "regexp": "[U]+l[d]+p", 
+    "topology": "UUlddddp", 
+    "largest": 29
+  }, 
+  {
+    "count": 55716, 
+    "regexp": "[d]+lUp", 
+    "topology": "ddddddddlUp", 
+    "largest": 30
+  }, 
+  {
+    "count": 53426, 
+    "regexp": "[l]+d[U]+p", 
+    "topology": "llllldUUp", 
+    "largest": 25
+  }, 
+  {
+    "count": 52087, 
+    "regexp": "UlU[d]+p", 
+    "topology": "UlUddddddp", 
+    "largest": 22
+  }, 
+  {
+    "count": 51290, 
+    "regexp": "U[l]+dp[d]+p", 
+    "topology": "Ullldpddp", 
+    "largest": 25
+  }, 
+  {
+    "count": 49776, 
+    "regexp": "U[l]+d[l]+[d]+p", 
+    "topology": "Ulldllddddp", 
+    "largest": 32
+  }, 
+  {
+    "count": 48913, 
+    "regexp": "[l]+[d]+[U]+[l]+p", 
+    "topology": "llllddUUllp", 
+    "largest": 40
+  }, 
+  {
+    "count": 46794, 
+    "regexp": "U[l]+[d]+Up", 
+    "topology": "UlllllllddddUp", 
+    "largest": 24
+  }, 
+  {
+    "count": 46746, 
+    "regexp": "UlUlUl[d]+p", 
+    "topology": "UlUlUlddp", 
+    "largest": 32
+  }, 
+  {
+    "count": 45649, 
+    "regexp": "[d]+pU[l]+pU[l]+p", 
+    "topology": "ddddddddpUlllpUllp", 
+    "largest": 36
+  }, 
+  {
+    "count": 44632, 
+    "regexp": "U[l]+p[l]+[d]+p", 
+    "topology": "Ullpllllddp", 
+    "largest": 32
+  }, 
+  {
+    "count": 44404, 
+    "regexp": "l[d]+[l]+Up", 
+    "topology": "lddllllUp", 
+    "largest": 19
+  }, 
+  {
+    "count": 44331, 
+    "regexp": "lU[d]+p", 
+    "topology": "lUdddddddddddp", 
+    "largest": 33
+  }, 
+  {
+    "count": 43644, 
+    "regexp": "d[l]+Up", 
+    "topology": "dllllUp", 
+    "largest": 25
+  }, 
+  {
+    "count": 42775, 
+    "regexp": "Up[l]+[d]+p", 
+    "topology": "Upllllddp", 
+    "largest": 26
+  }, 
+  {
+    "count": 41961, 
+    "regexp": "[l]+[d]+Uldlp", 
+    "topology": "llddUldlp", 
+    "largest": 23
+  }, 
+  {
+    "count": 41950, 
+    "regexp": "[l]+Ud[l]+p", 
+    "topology": "lllUdlllp", 
+    "largest": 34
+  }, 
+  {
+    "count": 41066, 
+    "regexp": "Ud[l]+d[l]+p", 
+    "topology": "Udlldllllp", 
+    "largest": 30
+  }, 
+  {
+    "count": 40083, 
+    "regexp": "Ud[l]+dp", 
+    "topology": "Udllllldp", 
+    "largest": 23
+  }, 
+  {
+    "count": 39957, 
+    "regexp": "U[l]+U[l]+U[d]+p", 
+    "topology": "UllUllUddp", 
+    "largest": 29
+  }, 
+  {
+    "count": 39856, 
+    "regexp": "dU[l]+[d]+p", 
+    "topology": "dUlllddddp", 
+    "largest": 26
+  }, 
+  {
+    "count": 39586, 
+    "regexp": "[l]+[U]+[l]+[d]+p", 
+    "topology": "llUUlllddp", 
+    "largest": 32
+  }, 
+  {
+    "count": 39015, 
+    "regexp": "[U]+[d]+lp", 
+    "topology": "UUdddlp", 
+    "largest": 24
+  }, 
+  {
+    "count": 38781, 
+    "regexp": "UlUlU[d]+p", 
+    "topology": "UlUlUddddddp", 
+    "largest": 30
+  }, 
+  {
+    "count": 37164, 
+    "regexp": "[l]+Ul[d]+p", 
+    "topology": "llllUlddp", 
+    "largest": 34
+  }, 
+  {
+    "count": 36751, 
+    "regexp": "[U]+[l]+[d]+[p]+", 
+    "topology": "UUllddppp", 
+    "largest": 24
+  }, 
+  {
+    "count": 35730, 
+    "regexp": "d[l]+[U]+p", 
+    "topology": "dllllUUUUp", 
+    "largest": 23
+  }, 
+  {
+    "count": 34859, 
+    "regexp": "l[U]+[l]+[d]+p", 
+    "topology": "lUUlllddp", 
+    "largest": 23
+  }, 
+  {
+    "count": 34489, 
+    "regexp": "d[l]+U[l]+p", 
+    "topology": "dllllUllllp", 
+    "largest": 32
+  }, 
+  {
+    "count": 33951, 
+    "regexp": "[l]+d[l]+Up", 
+    "topology": "lllllldllUp", 
+    "largest": 35
+  }, 
+  {
+    "count": 33659, 
+    "regexp": "[l]+[d]+U[l]+p", 
+    "topology": "llldddUllp", 
+    "largest": 31
+  }, 
+  {
+    "count": 33069, 
+    "regexp": "U[l]+[d]+[U]+p", 
+    "topology": "UllllllddUUUp", 
+    "largest": 25
+  }, 
+  {
+    "count": 32521, 
+    "regexp": "[l]+U[l]+U[d]+p", 
+    "topology": "llUllllUddddp", 
+    "largest": 26
+  }, 
+  {
+    "count": 32414, 
+    "regexp": "lU[l]+dp", 
+    "topology": "lUlllldp", 
+    "largest": 27
+  }, 
+  {
+    "count": 32216, 
+    "regexp": "U[l]+dl[d]+p", 
+    "topology": "Ulldldddp", 
+    "largest": 31
+  }, 
+  {
+    "count": 32022, 
+    "regexp": "[d]+pU[l]+p", 
+    "topology": "ddpUllp", 
+    "largest": 30
+  }, 
+  {
+    "count": 31659, 
+    "regexp": "U[l]+dU[l]+dp", 
+    "topology": "UlldUlldp", 
+    "largest": 33
+  }, 
+  {
+    "count": 31619, 
+    "regexp": "l[U]+dp", 
+    "topology": "lUUUUdp", 
+    "largest": 21
+  }, 
+  {
+    "count": 30730, 
+    "regexp": "[U]+[l]+[U]+[d]+p", 
+    "topology": "UUUUUllllUUUddddp", 
+    "largest": 29
+  }, 
+  {
+    "count": 30695, 
+    "regexp": "UdU[l]+[d]+p", 
+    "topology": "UdUllldddp", 
+    "largest": 24
+  }, 
+  {
+    "count": 30523, 
+    "regexp": "[d]+U[l]+U[l]+p", 
+    "topology": "dddUlllUllp", 
+    "largest": 31
+  }, 
+  {
+    "count": 30257, 
+    "regexp": "pU[l]+[d]+p", 
+    "topology": "pUllllllddddddp", 
+    "largest": 26
+  }, 
+  {
+    "count": 30246, 
+    "regexp": "U[l]+[U]+dp", 
+    "topology": "UllUUUdp", 
+    "largest": 22
+  }, 
+  {
+    "count": 29830, 
+    "regexp": "U[l]+dldp", 
+    "topology": "Ullllldldp", 
+    "largest": 27
+  }, 
+  {
+    "count": 29828, 
+    "regexp": "d[U]+[l]+p", 
+    "topology": "dUUlllllp", 
+    "largest": 26
+  }
+]
